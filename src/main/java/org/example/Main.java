@@ -30,5 +30,6 @@ public class Main {
         System.out.println("Hello world!");
         Main obj = new Main();
         obj.m1();
+        System.out.print("This is dummy code added for GIT poc");
     }
 }
